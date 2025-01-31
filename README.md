@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="mybanner.jpg" alt="About Me" width="600"/>
+</p>
 # 💫 About Me:
 🎓 3rd-year B.Tech CSE student at UPES | Graphics & Gaming Enthusiast 🎮<br>💡 Creative problem solver | Software Developer (C++) 🔥<br>🛠️ Building immersive worlds in Unity | Architecting the future of the web 🌐🚀
 
