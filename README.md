@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <p align="left">
-  <img src="mybanner.png" alt="About Me" width="600" >
+  <img src="Screenshot 2025-02-01 021534.png" alt="About Me" width="600" >
 </p>
 
 
