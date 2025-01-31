@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="mybanner.png" alt="About Me" width="800" height="400" style=" object-fit: cover;/>
+  <img src="mybanner.png" alt="About Me" width="800" height="400" style=" object-fit: cover;"/>
 </p>
 # 💫 About Me:
 🎓 3rd-year B.Tech CSE student at UPES | Graphics & Gaming Enthusiast 🎮<br>💡 Creative problem solver | Software Developer (C++) 🔥<br>🛠️ Building immersive worlds in Unity | Architecting the future of the web 🌐🚀
