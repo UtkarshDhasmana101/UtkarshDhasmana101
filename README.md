@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="mybanner.png" alt="About Me" width="600" >
+  <img src="Screenshot 2025-02-03 142716.png" alt="About Me" width="600" >
 </p>
 
 ## 💫 About Me:
