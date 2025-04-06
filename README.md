@@ -23,10 +23,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UtkarshDhasmana101&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshDhasmana101&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDhasmana101&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UtkarshDhasmana101&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
