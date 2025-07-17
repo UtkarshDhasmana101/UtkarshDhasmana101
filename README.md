@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 <p align="left">
-  <img src="UtkarshDhasmanaGit.png" width="800" >
+  <img src="UtkarshDhasmanaGit.png" width="600" >
 </p>
 
 
