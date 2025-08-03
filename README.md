@@ -1,14 +1,28 @@
-<p align="left">
-  <img src="Group 1.png" alt="About Me" width="600" >
-</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## 💫 About Me:
-<p align="left">
-  <img src="UtkarshDhasmanaGit.png" width="600" >
-</p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Utkarsh Dhasmana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Utkarsh+Dhasmana!;" />
 </h1>
+<h3>A passionate software developer from India</h3>
+
+<br/>
+
+<div>
+  🎓 I'm a final-year Computer Science major, passionate about building immersive and scalable tech experiences.<br/>
+  🔭 I'm well versed in Unity Development spanning from 3D, 2D and XR to general purpose applications<br/>
+  ⚡ Fun fact: <em> The first computer bug was a real moth found stuck in a Harvard Mark II computer in 1947. Grace Hopper and her team taped it into their logbook with the note: “First actual case of bug being found.”</em>
+</div>
+<br/>
+
+### 🌱 Currently Learning
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,docker,fastapi" />
+</div>
+
+
+
+
 
 
 
@@ -18,26 +32,11 @@
 
 
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Pytest](https://img.shields.io/badge/pytest-fff?logo=pytest&logoColor=black&style=for-the-badge) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<div>
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,fastapi,html,css,unity,firebase,react,blender,ae,adobe,canva,git,github,mysql,mongodb" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-snake-dark.svg" />
@@ -47,11 +46,13 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UtkarshDhasmana101&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=UtkarshDhasmana101&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UtkarshDhasmana101&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshDhasmana101&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDhasmana101&layout=compact&theme=github_dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
