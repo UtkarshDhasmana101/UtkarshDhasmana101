@@ -120,14 +120,6 @@ Gamified AgriTech mobile app helping farmers adopt sustainable farming practices
 
 ---
 
-## 📊 My Contributions Graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
-
 ### 🔝 Recent Contribution Activity
 
 [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshDhasmana101&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
