@@ -60,7 +60,7 @@ AI-powered Crime Scene Reconstruction in Unity with ML anomaly detection, contra
 
 <br><br>
 
-<a href="https://github.com/aryandubey14">
+<a href="https://github.com/UtkarshDhasmana101">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
 </a>
 </p>
@@ -78,7 +78,7 @@ AR-based chicken disease detection using image classification with Unity, AR Fou
 
 <br><br>
 
-<a href="https://github.com/aryandubey14">
+<a href="https://github.com/UtkarshDhasmana101">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
 </a>
 </p>
@@ -88,36 +88,46 @@ AR-based chicken disease detection using image classification with Unity, AR Fou
 
 <tr>
 
-<td width="50%">
+<td colspan="2">
 <h3 align="center">🌾 AgriQuest</h3>
 <p align="center">
 Gamified AgriTech mobile app helping farmers adopt sustainable farming practices through personalized quests, rewards, and community engagement.
 <br><br>
-    
+
 <img src="https://img.shields.io/badge/Unity-C%23-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-Backend_&_Database-orange?style=for-the-badge&logo=firebase"/>
 
 <br><br>
 
-<a href="https://github.com/aryandubey14/AgriQuest">
+<a href="https://github.com/UtkarshDhasmana101/AgriQuest">
 <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
 </a>
 </p>
 </td>
 
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryandubey14&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtkarshDhasmana101&theme=github_dark"/>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryandubey14&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtkarshDhasmana101&theme=github_dark"/>
 </p>
 
+---
 
 ## 📊 My Contributions Graph
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+---
+
 ### 🔝 Recent Contribution Activity
+
 [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshDhasmana101&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
