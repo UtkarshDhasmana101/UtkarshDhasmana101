@@ -106,13 +106,18 @@ Gamified AgriTech mobile app helping farmers adopt sustainable farming practices
 </td>
 
 
+## 📊 GitHub Analytics
 
-### 🔝 Top Contributed Repo
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=UtkarshDhasmana101&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryandubey14&theme=github_dark"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=UtkarshDhasmana101&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryandubey14&theme=github_dark"/>
+</p>
 
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshDhasmana101&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDhasmana101&layout=compact&theme=github_dark)
 
+## 📊 My Contributions Graph
+![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+### 🔝 Recent Contribution Activity
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtkarshDhasmana101&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
