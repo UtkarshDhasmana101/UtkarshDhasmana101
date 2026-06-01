@@ -43,6 +43,69 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/UtkarshDhasmana101/UtkarshDhasmana101/output/github-snake.svg" />
 </picture>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">🕵️ IntelliTrace</h3>
+<p align="center">
+AI-powered Crime Scene Reconstruction in Unity with ML anomaly detection, contradiction analysis, and 3D timeline investigation.
+<br><br>
+
+<img src="https://img.shields.io/badge/Unity-3D-black?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Integrated-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🐔 AR Poultry Care</h3>
+<p align="center">
+AR-based chicken disease detection using image classification with Unity, AR Foundation & TensorFlow.
+<br><br>
+
+<img src="https://img.shields.io/badge/AR-Foundation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unity-C%23-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-EfficientNet-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<h3 align="center">🌾 AgriQuest</h3>
+<p align="center">
+Gamified AgriTech mobile app helping farmers adopt sustainable farming practices through personalized quests, rewards, and community engagement.
+<br><br>
+    
+<img src="https://img.shields.io/badge/Unity-C%23-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-Backend_&_Database-orange?style=for-the-badge&logo=firebase"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14/AgriQuest">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+</p>
+</td>
+
+
 
 ### 🔝 Top Contributed Repo
 ![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=UtkarshDhasmana101&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
@@ -53,5 +116,3 @@
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=UtkarshDhasmana101&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshDhasmana101&layout=compact&theme=github_dark)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
