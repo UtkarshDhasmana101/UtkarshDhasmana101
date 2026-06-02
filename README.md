@@ -7,7 +7,7 @@
 <br/>
 
 <div>
-  🎓 I'm a final-year Computer Science major, passionate about building immersive and scalable tech experiences.<br/>
+  🎓 I'm a software developer who likes building immersive and scalable tech experiences.<br/>
   🔭 I'm well versed in Unity Development spanning from 3D, 2D and XR to general purpose applications<br/>
   ⚡ Fun fact: <em> The first computer bug was a real moth found stuck in a Harvard Mark II computer in 1947. Grace Hopper and her team taped it into their logbook with the note: “First actual case of bug being found.”</em>
 </div>
